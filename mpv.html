@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MPV - Zyppys Luxury Car Rentals</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="header-content">
+            <h1>Zyppys Hyderabad</h1>
+            <p class="tagline">Luxury Car Rental Tariffs</p>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-content">
+            <a href="index.html" class="nav-btn">All Vehicles</a>
+            <a href="royale.html" class="nav-btn" >Royale</a>
+            <a href="exotic.html" class="nav-btn" >Exotic/Sports</a>
+            <a href="president.html" class="nav-btn" >President</a>
+            <a href="luxury_suv.html" class="nav-btn" >Luxury SUV</a>
+            <a href="electric.html" class="nav-btn" >Electric</a>
+            <a href="mpv.html" class="nav-btn" class='nav-btn active'>MPV</a>
+            <a href="luxury_vans.html" class="nav-btn" >Luxury Vans</a>
+            <a href="buses_nac.html" class="nav-btn" >Buses N/AC</a>
+            <a href="buses_ac.html" class="nav-btn" >Buses A/C</a>
+            <a href="ancilliary.html" class="nav-btn" >Ancilliary</a>
+            <a href="corporate.html" class="nav-btn" >Corporate</a>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <div id="content">
+            <!-- Content will be loaded dynamically -->
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2025 Zyppys Hyderabad. All rights reserved.</p>
+            <p style="margin-top: 0.5rem; font-size: 0.8rem;">
+                Terms & Conditions apply | GST 18% extra | Toll, Parking & Permit charges extra
+            </p>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+    <script>
+        // Auto-load this segment
+        document.addEventListener('DOMContentLoaded', async function() {
+            const dataResponse = await fetch('data.json');
+            const data = await dataResponse.json();
+
+            const imageResponse = await fetch('image_mapping.json');
+            const images = await imageResponse.json();
+
+            window.segmentData = data;
+            window.imageMapping = images;
+
+            displaySegment('MPV');
+        });
+    </script>
+</body>
+</html>

@@ -6,12 +6,11 @@ __pycache__/
 # Excel source file
 *.xlsx
 
-# Git files
-.git/
-.gitignore
-
-# Documentation (optional - remove if you want to include)
-DASHBOARD_SUMMARY.md
-
-# Only keep the dashboard folder
+# Duplicate folders (files are in root now)
 dashboard/
+public/
+
+# Documentation markdown
+DASHBOARD_SUMMARY.md
+VERCEL_DEPLOYMENT.md
+QUICK_START_VERCEL.md

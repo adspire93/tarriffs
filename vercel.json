@@ -1,8 +1,4 @@
 {
-  "version": 2,
-  "name": "zyppys-luxury-dashboard",
-  "buildCommand": "echo 'No build required'",
-  "outputDirectory": "public",
   "cleanUrls": true,
   "trailingSlash": false
 }
