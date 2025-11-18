@@ -1,0 +1,17 @@
+# Python scripts (not needed for deployment)
+*.py
+__pycache__/
+*.pyc
+
+# Excel source file
+*.xlsx
+
+# Git files
+.git/
+.gitignore
+
+# Documentation (optional - remove if you want to include)
+DASHBOARD_SUMMARY.md
+
+# Only keep the dashboard folder
+dashboard/

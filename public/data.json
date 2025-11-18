@@ -1,0 +1,706 @@
+{
+  "ROYALE": [
+    {
+      "name": "BMW 740 i MSPORT",
+      "rate_8hrs_80kms": 34200,
+      "ext_hr": 3300,
+      "ext_km": 330,
+      "airport_trf": 31800,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 330,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "MERCEDES BENZ S 450 4MATIC",
+      "rate_8hrs_80kms": 28200,
+      "ext_hr": 2820,
+      "ext_km": 258,
+      "airport_trf": 25800,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 258,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "BMW 740 Li M SPORT",
+      "rate_8hrs_80kms": 24000,
+      "ext_hr": 1920,
+      "ext_km": 192,
+      "airport_trf": 22200,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 192,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "MERCEDES BENZ S350 / MERCEDES S 500 L / BMW 730 LD SIGNATURE EDITION",
+      "rate_8hrs_80kms": 18900,
+      "ext_hr": 1350,
+      "ext_km": 150,
+      "airport_trf": 17400,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 150,
+      "driver_bhatta_intercity": 1000
+    }
+  ],
+  "EXOTIC / SPORTS": [
+    {
+      "name": "PORSCHE 718 CAYMAN",
+      "rate_8hrs_80kms": 38400,
+      "ext_hr": 3840,
+      "ext_km": 384,
+      "airport_trf": 36000,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 384,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "AUDI RS5",
+      "rate_8hrs_80kms": 20160,
+      "ext_hr": 1440,
+      "ext_km": 168,
+      "airport_trf": 19200,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 168,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "MERCEDES C 300 CABRIOLET",
+      "rate_8hrs_80kms": 20160,
+      "ext_hr": 1440,
+      "ext_km": 168,
+      "airport_trf": 19200,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 168,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "MINI COOPER S CONVERTIBLE",
+      "rate_8hrs_80kms": 16320,
+      "ext_hr": 960,
+      "ext_km": 144,
+      "airport_trf": 15600,
+      "driver_bhatta": "750*",
+      "intercity_min": "300 KMS",
+      "per_km": 144,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "MINI COOPER COUNTRYMAN S",
+      "rate_8hrs_80kms": 13440,
+      "ext_hr": 720,
+      "ext_km": 120,
+      "airport_trf": 12600,
+      "driver_bhatta": "750*",
+      "intercity_min": "300 KMS",
+      "per_km": 120,
+      "driver_bhatta_intercity": 750
+    }
+  ],
+  "PRESIDENT": [
+    {
+      "name": "MERCEDES E 220 EWB",
+      "rate_8hrs_80kms": 9600,
+      "ext_hr": 720,
+      "ext_km": 96,
+      "airport_trf": 9000,
+      "driver_bhatta": "750*",
+      "intercity_min": "300 KMS",
+      "per_km": 96,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "LEXUS ES 300H / BMW 520 D LUXURYLINE / VOLVO S 90",
+      "rate_8hrs_80kms": 8400,
+      "ext_hr": 600,
+      "ext_km": 84,
+      "airport_trf": 7800,
+      "driver_bhatta": "750*",
+      "intercity_min": "300 KMS",
+      "per_km": 84,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "TOYOTA CAMRY HYBRID / VOLVO S 60 CROSS COUNTRY",
+      "rate_8hrs_80kms": 7800,
+      "ext_hr": 540,
+      "ext_km": 78,
+      "airport_trf": 7200,
+      "driver_bhatta": "500*",
+      "intercity_min": "300 KMS",
+      "per_km": 78,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "VOLVO S60",
+      "rate_8hrs_80kms": 6600,
+      "ext_hr": 450,
+      "ext_km": 66,
+      "airport_trf": 6000,
+      "driver_bhatta": "500*",
+      "intercity_min": "300 KMS",
+      "per_km": 66,
+      "driver_bhatta_intercity": 750
+    }
+  ],
+  "LUXURY SUV": [
+    {
+      "name": "RANGE ROVER VOGUE 2024",
+      "rate_8hrs_80kms": 48000,
+      "ext_hr": 4800,
+      "ext_km": 480,
+      "airport_trf": 46200,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 480,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "MERCEDES G 350",
+      "rate_8hrs_80kms": 38400,
+      "ext_hr": 3840,
+      "ext_km": 384,
+      "airport_trf": 36000,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 384,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "MERCEDES GLS 400 D 2023 / LANDROVER DEFENDER 110 / VOLVO XC 90 T8 EXCELLENCE HYBRID / JEEP WRANGLER UNLIMITED",
+      "rate_8hrs_80kms": 18900,
+      "ext_hr": 1350,
+      "ext_km": 150,
+      "airport_trf": 18000,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 150,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "MERCEDES GLS 350 / MERCEDES GLS 400 / LANDROVER DISCOVERY SPORT",
+      "rate_8hrs_80kms": 16200,
+      "ext_hr": 960,
+      "ext_km": 132,
+      "airport_trf": 15600,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 132,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "VOLVO V 90 CROSS COUNTRY",
+      "rate_8hrs_80kms": 13440,
+      "ext_hr": 720,
+      "ext_km": 108,
+      "airport_trf": 12600,
+      "driver_bhatta": "750*",
+      "intercity_min": "300 KMS",
+      "per_km": 108,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "TOYOTA HILUX A/T 4X4",
+      "rate_8hrs_80kms": 13440,
+      "ext_hr": 720,
+      "ext_km": 120,
+      "airport_trf": 12600,
+      "driver_bhatta": "750*",
+      "intercity_min": "300 KMS",
+      "per_km": 120,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "TOYOTA FORTUNER A/T 4X4 / FORD ENDEAVOUR TITANIUM 3.2 A/T 4X4 / MAHINDRA XUV 700 AX7L A/T 4X4",
+      "rate_8hrs_80kms": 6600,
+      "ext_hr": 450,
+      "ext_km": 66,
+      "airport_trf": 6000,
+      "driver_bhatta": "500*",
+      "intercity_min": "300 KMS",
+      "per_km": 66,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "ISUZU MU 7 A/T / MAHINDRA THAR LX AT 4X4 / SUZUKI JIMNY A/T 4X4",
+      "rate_8hrs_80kms": 5400,
+      "ext_hr": 270,
+      "ext_km": 48,
+      "airport_trf": 4800,
+      "driver_bhatta": 100,
+      "intercity_min": "300 KMS",
+      "per_km": 48,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "MG HECTOR 5 STR / TOYOTA HYRIDER HYBRID A/T / VW TAIGUN A/T",
+      "rate_8hrs_80kms": 3600,
+      "ext_hr": 270,
+      "ext_km": 26.4,
+      "airport_trf": 3360,
+      "driver_bhatta": 100,
+      "intercity_min": "300 KMS",
+      "per_km": 26.4,
+      "driver_bhatta_intercity": 500
+    }
+  ],
+  "ELECTRIC": [
+    {
+      "name": "OLECTRA X2 35 STR A/C",
+      "rate_8hrs_80kms": 43200,
+      "ext_hr": 4320,
+      "ext_km": 432,
+      "airport_trf": 36000,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 432,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "MERCEDES BENZ EQS 580",
+      "rate_8hrs_80kms": 28200,
+      "ext_hr": 2820,
+      "ext_km": 258,
+      "airport_trf": 25800,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 258,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "BMW iX",
+      "rate_8hrs_80kms": 18900,
+      "ext_hr": 1350,
+      "ext_km": 156,
+      "airport_trf": 18000,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 156,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "BMW i4",
+      "rate_8hrs_80kms": 10200,
+      "ext_hr": 720,
+      "ext_km": 102,
+      "airport_trf": 9000,
+      "driver_bhatta": "750*",
+      "intercity_min": "300 KMS",
+      "per_km": 102,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "BYD SEAL",
+      "rate_8hrs_80kms": 8400,
+      "ext_hr": 600,
+      "ext_km": 84,
+      "airport_trf": 7800,
+      "driver_bhatta": "500*",
+      "intercity_min": "300 KMS",
+      "per_km": 84,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "BYD E6",
+      "rate_8hrs_80kms": 4800,
+      "ext_hr": 360,
+      "ext_km": 36,
+      "airport_trf": 4200,
+      "driver_bhatta": 100,
+      "intercity_min": "300 KMS",
+      "per_km": 36,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "HYUNDAI KONA / MG ZS",
+      "rate_8hrs_80kms": 3600,
+      "ext_hr": 240,
+      "ext_km": 26.4,
+      "airport_trf": 3360,
+      "driver_bhatta": 100,
+      "intercity_min": "300 KMS",
+      "per_km": 26.4,
+      "driver_bhatta_intercity": 500
+    },
+    {
+      "name": "TATA TIGOR XPRESS T / MG COMET / MAHINDRA e VERITO",
+      "rate_8hrs_80kms": 2880,
+      "ext_hr": 216,
+      "ext_km": 28.799999999999997,
+      "airport_trf": 2640,
+      "driver_bhatta": 100,
+      "intercity_min": "300 KMS",
+      "per_km": 28.799999999999997,
+      "driver_bhatta_intercity": 500
+    }
+  ],
+  "MPV": [
+    {
+      "name": "KIA CARNIVAL LIMOUSINE PLUS 2025",
+      "rate_8hrs_80kms": 9600,
+      "ext_hr": 720,
+      "ext_km": 96,
+      "airport_trf": 9000,
+      "driver_bhatta": "750*",
+      "intercity_min": "300 KMS",
+      "per_km": 96,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "KIA CARNIVAL 7 STR LIMOUSINE",
+      "rate_8hrs_80kms": 7800,
+      "ext_hr": 540,
+      "ext_km": 78,
+      "airport_trf": 7200,
+      "driver_bhatta": "500*",
+      "intercity_min": "300 KMS",
+      "per_km": 78,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "KIA CARNIVAL 7 STR / 8 STR",
+      "rate_8hrs_80kms": 6600,
+      "ext_hr": 450,
+      "ext_km": 66,
+      "airport_trf": 6000,
+      "driver_bhatta": "500*",
+      "intercity_min": "300 KMS",
+      "per_km": 66,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "TOYOTA INNOVA HYCROSS HYBRID 8 STR / MARUTI SUZUKI INVICTO HYBRID 8 STR",
+      "rate_8hrs_80kms": 4500,
+      "ext_hr": 360,
+      "ext_km": 36,
+      "airport_trf": 4200,
+      "driver_bhatta": 100,
+      "intercity_min": "300 KMS",
+      "per_km": 36,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "TOYOTA CRYSTA 7 STR Z MODEL / TOYOTA CRYSTA 7 STR GX",
+      "rate_8hrs_80kms": 4500,
+      "ext_hr": 360,
+      "ext_km": 36,
+      "airport_trf": 4200,
+      "driver_bhatta": 100,
+      "intercity_min": "300 KMS",
+      "per_km": 36,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "TOYOTA CRYSTA 8 STR",
+      "rate_8hrs_80kms": 3600,
+      "ext_hr": 270,
+      "ext_km": 26.4,
+      "airport_trf": 3360,
+      "driver_bhatta": 100,
+      "intercity_min": "300 KMS",
+      "per_km": 26.4,
+      "driver_bhatta_intercity": 500
+    },
+    {
+      "name": "KIA CARENS 7 STR / MARUTI SUZUKI XL6 6 STR / MARUTI SUZUKI ERTIGA 7 STR / TOYOTA INNOVA 8 STR",
+      "rate_8hrs_80kms": 3240,
+      "ext_hr": 240,
+      "ext_km": 24,
+      "airport_trf": 3000,
+      "driver_bhatta": 100,
+      "intercity_min": "300 KMS",
+      "per_km": 24,
+      "driver_bhatta_intercity": 500
+    }
+  ],
+  "LUXURY VANS": [
+    {
+      "name": "TOYOTA COASTER 18 STR",
+      "rate_8hrs_80kms": 18000,
+      "ext_hr": 1440,
+      "ext_km": 132,
+      "airport_trf": 16800,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 132,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "MERCEDES V CLASS",
+      "rate_8hrs_80kms": 18000,
+      "ext_hr": 1440,
+      "ext_km": 132,
+      "airport_trf": 16800,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 132,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "TOYOTA VELLFIRE",
+      "rate_8hrs_80kms": 21420,
+      "ext_hr": 1800,
+      "ext_km": 168,
+      "airport_trf": 20400,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 168,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "TOYOTA VELLFIRE VIP 2024",
+      "rate_8hrs_80kms": 24000,
+      "ext_hr": 2400,
+      "ext_km": 180,
+      "airport_trf": 22800,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 180,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "TOYOTA COMMUTER 10 STR / HYUNDAI H1 12 STR",
+      "rate_8hrs_80kms": 11280,
+      "ext_hr": 720,
+      "ext_km": 84,
+      "airport_trf": 10200,
+      "driver_bhatta": "750*",
+      "intercity_min": "300 KMS",
+      "per_km": 84,
+      "driver_bhatta_intercity": 750
+    },
+    {
+      "name": "FORCE URBANIA 12 STR / FORCE URBANIA 16/17 STR",
+      "rate_8hrs_80kms": 10200,
+      "ext_hr": 720,
+      "ext_km": 48,
+      "airport_trf": 9600,
+      "driver_bhatta": "800*",
+      "intercity_min": "300 Kms",
+      "per_km": 48,
+      "driver_bhatta_intercity": 800
+    },
+    {
+      "name": "FOTON 9/12 SEATER",
+      "rate_8hrs_80kms": 7200,
+      "ext_hr": 660,
+      "ext_km": 48,
+      "airport_trf": 6600,
+      "driver_bhatta": "750*",
+      "intercity_min": "300 KMS",
+      "per_km": 48,
+      "driver_bhatta_intercity": 750
+    }
+  ],
+  "BUSES N/AC": [
+    {
+      "name": "12 STR SML NON A/C",
+      "rate_8hrs_80kms": 5400,
+      "ext_hr": 378,
+      "ext_km": 31.2,
+      "airport_trf": 5160,
+      "driver_bhatta": "500*",
+      "intercity_min": "300 KMS",
+      "per_km": 31.2,
+      "driver_bhatta_intercity": 800
+    },
+    {
+      "name": "21 STR NON A/C",
+      "rate_8hrs_80kms": 6600,
+      "ext_hr": 432,
+      "ext_km": 38.4,
+      "airport_trf": 6240,
+      "driver_bhatta": "500*",
+      "intercity_min": "300 KMS",
+      "per_km": 38.4,
+      "driver_bhatta_intercity": 800
+    },
+    {
+      "name": "36/40 STR EICHER NON A/C",
+      "rate_8hrs_80kms": 9180,
+      "ext_hr": 540,
+      "ext_km": 54,
+      "airport_trf": 9000,
+      "driver_bhatta": "800*",
+      "intercity_min": "300 KMS",
+      "per_km": 54,
+      "driver_bhatta_intercity": 1000
+    }
+  ],
+  "BUSES A/C": [
+    {
+      "name": "12 STR DLX SWARAJ MAZDA A/C",
+      "rate_8hrs_80kms": 5760,
+      "ext_hr": 420,
+      "ext_km": 36,
+      "airport_trf": 5520,
+      "driver_bhatta": "500*",
+      "intercity_min": "300 KMS",
+      "per_km": 36,
+      "driver_bhatta_intercity": 800
+    },
+    {
+      "name": "21 STR SML A/C",
+      "rate_8hrs_80kms": 7680,
+      "ext_hr": 480,
+      "ext_km": 42,
+      "airport_trf": 7200,
+      "driver_bhatta": "500*",
+      "intercity_min": "300 Kms",
+      "per_km": 42,
+      "driver_bhatta_intercity": 800
+    },
+    {
+      "name": "22 STR FORCE MONO BUS A/C",
+      "rate_8hrs_80kms": 9600,
+      "ext_hr": 570,
+      "ext_km": 50.4,
+      "airport_trf": 9000,
+      "driver_bhatta": "500*",
+      "intercity_min": "300 KMS",
+      "per_km": 50.4,
+      "driver_bhatta_intercity": 800
+    },
+    {
+      "name": "26 STR BHARAT BENZ A/C",
+      "rate_8hrs_80kms": 10560,
+      "ext_hr": 576,
+      "ext_km": 57.599999999999994,
+      "airport_trf": 10200,
+      "driver_bhatta": "800*",
+      "intercity_min": "300 Kms",
+      "per_km": 57.599999999999994,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "35 STR BHARAT BENZ A/C",
+      "rate_8hrs_80kms": 13800,
+      "ext_hr": 600,
+      "ext_km": 60,
+      "airport_trf": 13200,
+      "driver_bhatta": "800*",
+      "intercity_min": "300 Kms",
+      "per_km": 60,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "40 STR EICHER A/C",
+      "rate_8hrs_80kms": 14400,
+      "ext_hr": 780,
+      "ext_km": 67.2,
+      "airport_trf": 13200,
+      "driver_bhatta": "800*",
+      "intercity_min": "300 Kms",
+      "per_km": 67.2,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "40 STR ISUZU FR 1318 A/C",
+      "rate_8hrs_80kms": 16200,
+      "ext_hr": 1080,
+      "ext_km": 90,
+      "airport_trf": 15000,
+      "driver_bhatta": "800*",
+      "intercity_min": "300 KMS",
+      "per_km": 90,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "40 STR ISUZU DLX A/C (REAR ENGINE)",
+      "rate_8hrs_80kms": 18600,
+      "ext_hr": 1296,
+      "ext_km": 96,
+      "airport_trf": 17400,
+      "driver_bhatta": "800*",
+      "intercity_min": "300 KMS",
+      "per_km": 96,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "44 STR ISUZU DLX A/C ( REAR ENGINE)",
+      "rate_8hrs_80kms": 20700,
+      "ext_hr": 1320,
+      "ext_km": 108,
+      "airport_trf": 19800,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 108,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "41/43/45 STR VOLVO A/C",
+      "rate_8hrs_80kms": 20700,
+      "ext_hr": 1350,
+      "ext_km": 114,
+      "airport_trf": 19800,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 114,
+      "driver_bhatta_intercity": 1000
+    }
+  ],
+  "ANCILLIARY SERVICES": [
+    {
+      "name": "BHARAT BENZ RECOVERY FLAT BED",
+      "rate_8hrs_80kms": 12000,
+      "ext_hr": 540,
+      "ext_km": 54,
+      "airport_trf": 10200,
+      "driver_bhatta": "1000*",
+      "intercity_min": "300 KMS",
+      "per_km": 54,
+      "driver_bhatta_intercity": 1000
+    },
+    {
+      "name": "TATA WINGER CLOSED BODY VAN",
+      "rate_8hrs_80kms": 6000,
+      "ext_hr": 420,
+      "ext_km": 36,
+      "airport_trf": 5760,
+      "driver_bhatta": "500*",
+      "intercity_min": "300 KMS",
+      "per_km": 36,
+      "driver_bhatta_intercity": 500
+    }
+  ],
+  "CORPORATE": [
+    {
+      "name": "TOYOTA YARIS / HONDA AMAZE",
+      "rate_8hrs_80kms": 2880,
+      "ext_hr": 216,
+      "ext_km": 28.799999999999997,
+      "airport_trf": 2640,
+      "driver_bhatta": 100,
+      "intercity_min": "300 KMS",
+      "per_km": 28.799999999999997,
+      "driver_bhatta_intercity": 500
+    },
+    {
+      "name": "TOYOTA URBAN CRUISER",
+      "rate_8hrs_80kms": 2880,
+      "ext_hr": 216,
+      "ext_km": 28.799999999999997,
+      "airport_trf": 2640,
+      "driver_bhatta": 100,
+      "intercity_min": "300 KMS",
+      "per_km": 28.799999999999997,
+      "driver_bhatta_intercity": 500
+    },
+    {
+      "name": "TOYOTA ETIOS / SUZUKI DZIRE / MARUTI SUZUKI SWIFT / MARUTI SUZUKI BALENO / TOYOTA GLANZA/ HYUNDAI i20",
+      "rate_8hrs_80kms": 2520,
+      "ext_hr": 192,
+      "ext_km": 21.599999999999998,
+      "airport_trf": 2400,
+      "driver_bhatta": 100,
+      "intercity_min": "300 KMS",
+      "per_km": 21.599999999999998,
+      "driver_bhatta_intercity": 500
+    }
+  ]
+}
