@@ -1,0 +1,272 @@
+{
+  "ROYALE": [
+    {
+      "car_name": "BMW 740 i MSPORT",
+      "image": "ROYALE_0.jpg"
+    },
+    {
+      "car_name": "MERCEDES BENZ S 450 4MATIC",
+      "image": "ROYALE_1.jpg"
+    },
+    {
+      "car_name": "BMW 740 Li M SPORT",
+      "image": "ROYALE_2.jpg"
+    },
+    {
+      "car_name": "MERCEDES BENZ S350 / MERCEDES S 500 L / BMW 730 LD SIGNATURE EDITION",
+      "image": "ROYALE_3.jpg"
+    }
+  ],
+  "EXOTIC / SPORTS": [
+    {
+      "car_name": "PORSCHE 718 CAYMAN",
+      "image": "EXOTIC___SPORTS_0.jpg"
+    },
+    {
+      "car_name": "AUDI RS5",
+      "image": "EXOTIC___SPORTS_1.jpg"
+    },
+    {
+      "car_name": "MERCEDES C 300 CABRIOLET",
+      "image": "EXOTIC___SPORTS_2.jpg"
+    },
+    {
+      "car_name": "MINI COOPER S CONVERTIBLE",
+      "image": "EXOTIC___SPORTS_3.jpg"
+    },
+    {
+      "car_name": "MINI COOPER COUNTRYMAN S",
+      "image": "EXOTIC___SPORTS_4.jpg"
+    }
+  ],
+  "PRESIDENT": [
+    {
+      "car_name": "MERCEDES E 220 EWB",
+      "image": "PRESIDENT_0.jpg"
+    },
+    {
+      "car_name": "LEXUS ES 300H / BMW 520 D LUXURYLINE / VOLVO S 90",
+      "image": "PRESIDENT_1.jpg"
+    },
+    {
+      "car_name": "TOYOTA CAMRY HYBRID / VOLVO S 60 CROSS COUNTRY",
+      "image": "PRESIDENT_2.jpg"
+    },
+    {
+      "car_name": "VOLVO S60",
+      "image": "PRESIDENT_3.jpg"
+    }
+  ],
+  "LUXURY SUV": [
+    {
+      "car_name": "RANGE ROVER VOGUE 2024",
+      "image": "LUXURY_SUV_0.jpg"
+    },
+    {
+      "car_name": "MERCEDES G 350",
+      "image": "LUXURY_SUV_1.jpg"
+    },
+    {
+      "car_name": "MERCEDES GLS 400 D 2023 / LANDROVER DEFENDER 110 / VOLVO XC 90 T8 EXCELLENCE HYBRID / JEEP WRANGLER UNLIMITED",
+      "image": "LUXURY_SUV_2.jpg"
+    },
+    {
+      "car_name": "MERCEDES GLS 350 / MERCEDES GLS 400 / LANDROVER DISCOVERY SPORT",
+      "image": "LUXURY_SUV_3.jpg"
+    },
+    {
+      "car_name": "VOLVO V 90 CROSS COUNTRY",
+      "image": "LUXURY_SUV_4.jpg"
+    },
+    {
+      "car_name": "TOYOTA HILUX A/T 4X4",
+      "image": "LUXURY_SUV_5.jpg"
+    },
+    {
+      "car_name": "TOYOTA FORTUNER A/T 4X4 / FORD ENDEAVOUR TITANIUM 3.2 A/T 4X4 / MAHINDRA XUV 700 AX7L A/T 4X4",
+      "image": "LUXURY_SUV_6.jpg"
+    },
+    {
+      "car_name": "ISUZU MU 7 A/T / MAHINDRA THAR LX AT 4X4 / SUZUKI JIMNY A/T 4X4",
+      "image": "LUXURY_SUV_7.jpg"
+    },
+    {
+      "car_name": "MG HECTOR 5 STR / TOYOTA HYRIDER HYBRID A/T / VW TAIGUN A/T",
+      "image": "LUXURY_SUV_8.jpg"
+    }
+  ],
+  "ELECTRIC": [
+    {
+      "car_name": "OLECTRA X2 35 STR A/C",
+      "image": "ELECTRIC_0.jpg"
+    },
+    {
+      "car_name": "MERCEDES BENZ EQS 580",
+      "image": "ELECTRIC_1.jpg"
+    },
+    {
+      "car_name": "BMW iX",
+      "image": "ELECTRIC_2.jpg"
+    },
+    {
+      "car_name": "BMW i4",
+      "image": "ELECTRIC_3.jpg"
+    },
+    {
+      "car_name": "BYD SEAL",
+      "image": "ELECTRIC_4.jpg"
+    },
+    {
+      "car_name": "BYD E6",
+      "image": "ELECTRIC_5.jpg"
+    },
+    {
+      "car_name": "HYUNDAI KONA / MG ZS",
+      "image": "ELECTRIC_6.jpg"
+    },
+    {
+      "car_name": "TATA TIGOR XPRESS T / MG COMET / MAHINDRA e VERITO",
+      "image": "ELECTRIC_7.jpg"
+    }
+  ],
+  "MPV": [
+    {
+      "car_name": "KIA CARNIVAL LIMOUSINE PLUS 2025",
+      "image": "MPV_0.jpg"
+    },
+    {
+      "car_name": "KIA CARNIVAL 7 STR LIMOUSINE",
+      "image": "MPV_1.jpg"
+    },
+    {
+      "car_name": "KIA CARNIVAL 7 STR / 8 STR",
+      "image": "MPV_2.jpg"
+    },
+    {
+      "car_name": "TOYOTA INNOVA HYCROSS HYBRID 8 STR / MARUTI SUZUKI INVICTO HYBRID 8 STR",
+      "image": "MPV_3.jpg"
+    },
+    {
+      "car_name": "TOYOTA CRYSTA 7 STR Z MODEL / TOYOTA CRYSTA 7 STR GX",
+      "image": "MPV_4.jpg"
+    },
+    {
+      "car_name": "TOYOTA CRYSTA 8 STR",
+      "image": "MPV_5.jpg"
+    },
+    {
+      "car_name": "KIA CARENS 7 STR / MARUTI SUZUKI XL6 6 STR / MARUTI SUZUKI ERTIGA 7 STR / TOYOTA INNOVA 8 STR",
+      "image": "MPV_6.jpg"
+    }
+  ],
+  "LUXURY VANS": [
+    {
+      "car_name": "TOYOTA COASTER 18 STR",
+      "image": "LUXURY_VANS_0.jpg"
+    },
+    {
+      "car_name": "MERCEDES V CLASS",
+      "image": "LUXURY_VANS_1.jpg"
+    },
+    {
+      "car_name": "TOYOTA VELLFIRE",
+      "image": "LUXURY_VANS_2.jpg"
+    },
+    {
+      "car_name": "TOYOTA VELLFIRE VIP 2024",
+      "image": "LUXURY_VANS_3.jpg"
+    },
+    {
+      "car_name": "TOYOTA COMMUTER 10 STR / HYUNDAI H1 12 STR",
+      "image": "LUXURY_VANS_4.jpg"
+    },
+    {
+      "car_name": "FORCE URBANIA 12 STR / FORCE URBANIA 16/17 STR",
+      "image": "LUXURY_VANS_5.jpg"
+    },
+    {
+      "car_name": "FOTON 9/12 SEATER",
+      "image": "LUXURY_VANS_6.jpg"
+    }
+  ],
+  "BUSES N/AC": [
+    {
+      "car_name": "12 STR SML NON A/C",
+      "image": "BUSES_N_AC_0.jpg"
+    },
+    {
+      "car_name": "21 STR NON A/C",
+      "image": "BUSES_N_AC_1.jpg"
+    },
+    {
+      "car_name": "36/40 STR EICHER NON A/C",
+      "image": "BUSES_N_AC_2.jpg"
+    }
+  ],
+  "BUSES A/C": [
+    {
+      "car_name": "12 STR DLX SWARAJ MAZDA A/C",
+      "image": "BUSES_A_C_0.jpg"
+    },
+    {
+      "car_name": "21 STR SML A/C",
+      "image": "BUSES_A_C_1.jpg"
+    },
+    {
+      "car_name": "22 STR FORCE MONO BUS A/C",
+      "image": "BUSES_A_C_2.jpg"
+    },
+    {
+      "car_name": "26 STR BHARAT BENZ A/C",
+      "image": "BUSES_A_C_3.jpg"
+    },
+    {
+      "car_name": "35 STR BHARAT BENZ A/C",
+      "image": "BUSES_A_C_4.jpg"
+    },
+    {
+      "car_name": "40 STR EICHER A/C",
+      "image": "BUSES_A_C_5.jpg"
+    },
+    {
+      "car_name": "40 STR ISUZU FR 1318 A/C",
+      "image": "BUSES_A_C_6.jpg"
+    },
+    {
+      "car_name": "40 STR ISUZU DLX A/C (REAR ENGINE)",
+      "image": "BUSES_A_C_7.jpg"
+    },
+    {
+      "car_name": "44 STR ISUZU DLX A/C ( REAR ENGINE)",
+      "image": "BUSES_A_C_8.jpg"
+    },
+    {
+      "car_name": "41/43/45 STR VOLVO A/C",
+      "image": "BUSES_A_C_9.jpg"
+    }
+  ],
+  "ANCILLIARY SERVICES": [
+    {
+      "car_name": "BHARAT BENZ RECOVERY FLAT BED",
+      "image": "ANCILLIARY_SERVICES_0.jpg"
+    },
+    {
+      "car_name": "TATA WINGER CLOSED BODY VAN",
+      "image": "ANCILLIARY_SERVICES_1.jpg"
+    }
+  ],
+  "CORPORATE": [
+    {
+      "car_name": "TOYOTA YARIS / HONDA AMAZE",
+      "image": "CORPORATE_0.jpg"
+    },
+    {
+      "car_name": "TOYOTA URBAN CRUISER",
+      "image": "CORPORATE_1.jpg"
+    },
+    {
+      "car_name": "TOYOTA ETIOS / SUZUKI DZIRE / MARUTI SUZUKI SWIFT / MARUTI SUZUKI BALENO / TOYOTA GLANZA/ HYUNDAI i20",
+      "image": "CORPORATE_2.jpg"
+    }
+  ]
+}
