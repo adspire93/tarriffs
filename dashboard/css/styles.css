@@ -1,0 +1,334 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+    color: #ffffff;
+    min-height: 100vh;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background: linear-gradient(90deg, #000000 0%, #1a1a1a 100%);
+    padding: 2rem 0;
+    border-bottom: 3px solid #DAA520;
+    box-shadow: 0 4px 20px rgba(218, 165, 32, 0.3);
+}
+
+.header-content {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    background: linear-gradient(90deg, #DAA520 0%, #FFD700 50%, #DAA520 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 0.5rem;
+}
+
+.tagline {
+    color: #C0C0C0;
+    font-size: 1.1rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+/* Navigation */
+nav {
+    background: #0a0a0a;
+    padding: 1rem 0;
+    border-bottom: 1px solid #333;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+.nav-content {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.nav-btn {
+    background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
+    color: #DAA520;
+    border: 2px solid #DAA520;
+    padding: 0.7rem 1.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.nav-btn:hover {
+    background: linear-gradient(135deg, #DAA520 0%, #FFD700 100%);
+    color: #000;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(218, 165, 32, 0.4);
+}
+
+.nav-btn.active {
+    background: #DAA520;
+    color: #000;
+}
+
+/* Main Content */
+main {
+    max-width: 1400px;
+    margin: 3rem auto;
+    padding: 0 2rem;
+}
+
+.segment-section {
+    margin-bottom: 4rem;
+}
+
+.segment-header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.segment-title {
+    font-size: 2.5rem;
+    color: #DAA520;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.segment-divider {
+    width: 200px;
+    height: 3px;
+    background: linear-gradient(90deg, transparent 0%, #DAA520 50%, transparent 100%);
+    margin: 0 auto;
+}
+
+/* Car Grid */
+.car-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+.car-card {
+    background: linear-gradient(135deg, #1a1a1a 0%, #0f0f0f 100%);
+    border: 2px solid #333;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+}
+
+.car-card:hover {
+    transform: translateY(-5px);
+    border-color: #DAA520;
+    box-shadow: 0 8px 25px rgba(218, 165, 32, 0.3);
+}
+
+.car-image {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-bottom: 2px solid #DAA520;
+}
+
+.car-info {
+    padding: 1.5rem;
+}
+
+.car-name {
+    font-size: 1.2rem;
+    color: #FFD700;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    min-height: 3rem;
+}
+
+.price-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+.price-table td {
+    padding: 0.6rem;
+    border-bottom: 1px solid #333;
+}
+
+.price-table td:first-child {
+    color: #C0C0C0;
+    font-size: 0.85rem;
+    width: 50%;
+}
+
+.price-table td:last-child {
+    color: #DAA520;
+    font-weight: 600;
+    text-align: right;
+}
+
+.price-table tr:last-child td {
+    border-bottom: none;
+}
+
+/* Detailed Table View */
+.table-container {
+    background: #1a1a1a;
+    border-radius: 10px;
+    overflow-x: auto;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    border: 2px solid #DAA520;
+}
+
+.tariff-table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 1000px;
+}
+
+.tariff-table thead {
+    background: linear-gradient(90deg, #000000 0%, #1a1a1a 100%);
+}
+
+.tariff-table th {
+    padding: 1rem;
+    text-align: left;
+    color: #DAA520;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    border-bottom: 2px solid #DAA520;
+    letter-spacing: 1px;
+}
+
+.tariff-table tbody tr {
+    border-bottom: 1px solid #333;
+    transition: background 0.2s ease;
+}
+
+.tariff-table tbody tr:hover {
+    background: rgba(218, 165, 32, 0.1);
+}
+
+.tariff-table td {
+    padding: 1rem;
+    color: #ffffff;
+}
+
+.tariff-table td:first-child {
+    font-weight: 600;
+    color: #FFD700;
+    max-width: 300px;
+}
+
+.tariff-table td:not(:first-child) {
+    text-align: center;
+    color: #C0C0C0;
+}
+
+/* Toggle View Button */
+.view-toggle {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.toggle-btn {
+    background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
+    color: #DAA520;
+    border: 2px solid #DAA520;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    letter-spacing: 1px;
+}
+
+.toggle-btn:hover {
+    background: linear-gradient(135deg, #DAA520 0%, #FFD700 100%);
+    color: #000;
+    transform: scale(1.05);
+}
+
+/* Footer */
+footer {
+    background: #000000;
+    padding: 2rem 0;
+    text-align: center;
+    border-top: 3px solid #DAA520;
+    margin-top: 4rem;
+}
+
+.footer-content {
+    color: #C0C0C0;
+    font-size: 0.9rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
+
+    .segment-title {
+        font-size: 1.8rem;
+    }
+
+    .car-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .nav-content {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .nav-btn {
+        text-align: center;
+    }
+}
+
+/* Loading Animation */
+.hidden {
+    display: none;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.car-card {
+    animation: fadeIn 0.5s ease;
+}
